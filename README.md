@@ -1,1 +1,3 @@
-# Ohio-K12-Test-Scores
+This presentation was created to demonstrate analytical and data visualization skills. 
+
+The mock presentation was intended for an Ohio School Board member. 
